@@ -1,0 +1,2 @@
+rootProject.name='MailGönderme'
+include ':app'
